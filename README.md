@@ -47,6 +47,16 @@ Access to all AI features, including video and document analysis.
 Unlimited mind map creation and access to the entire video library.
 Advanced statistics and tracking tools for learning progress.
 Target Audience: Intensive learners, students, and professionals who want to take full advantage of Cognify for efficient and sustained learning.
+Premium Plan - "Cognify Elite" (Coming Soon)
+
+Price: $29.99 per month
+Features:
+Unlimited flashcard creation and access to advanced AI features like personalized learning paths and adaptive study plans.
+Exclusive access to coaching sessions and 1:1 tutorials that provide targeted support for users.
+Early access to new features and integrations.
+Target Audience: Advanced learners and professionals looking for personalized support and maximum flexibility.
+Technology and Architecture
+Frontend Technologies
 
 
 React: For a dynamic and interactive user interface.
